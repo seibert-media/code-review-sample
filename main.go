@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hallo Google Cloud Fruehstueck!")
+	fmt.Println("Hallo Google Cloud Frühstück!")
 }
